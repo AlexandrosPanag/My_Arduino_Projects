@@ -1,6 +1,8 @@
+Color sensor calibration project by ALEXANDROS PANAGIOTAKOPOULOS
+----
 
- Color sensor calibration project by ALEXANDROS PANAGIOTAKOPOULOS
- The TCS239 operates on a wide voltage rate and outputs square wave whose frequency reflects the color intensity
+
+The TCS239 operates on a wide voltage rate and outputs square wave whose frequency reflects the color intensity
  Signal output
 The signal output by the TCS230 is obtained by a current to frequency converter that takes as its input the average current from the selected set of photodiodes. 
 The idea is that you switch one set on, take a reading and then switch to the next set until all four measurements are done. 
