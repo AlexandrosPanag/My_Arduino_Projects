@@ -12,7 +12,6 @@ SOURCE: https://www.best-microcontroller-projects.com/tcs230.html
 
  Meterial used : Arduino UNO
                  TCS230
-                 ISL29125
 */
 
 
