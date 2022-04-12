@@ -11,11 +11,11 @@ void loop() {
 	// Let's turn on the relay...
 	digitalWrite(RelayPinOne, LOW);
 	delay(3000);
-	digitalWrite(RelayPinTwo, LOW);
+	digitalWrite(RelayPinTwo, HIGH);
 	delay(3000);
 	
 	// Let's turn off the relay...
-	digitalWrite(RelayPinOne, HIGH);
+	digitalWrite(RelayPinOne, LOW);
 	delay(3000);
 	digitalWrite(RelayPinTwo, HIGH);
 	delay(3000);
