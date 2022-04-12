@@ -12,6 +12,15 @@ This program initializes both of the two relay module pins and makes them blink 
 Useful Link : https://lastminuteengineers.com/two-channel-relay-module-arduino-tutorial/
 
 
+
+
+Two Relay Module 2
+------------
+
+
+This program only initializes the first relay module pin and makes the relay pin activate if the DHT.temperature is above 25 celcius the relay pin activates otherwise, the relay pin will deactivate
+
+
 Two Relay Module using the DHT11
 -----------
 
