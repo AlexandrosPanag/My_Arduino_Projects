@@ -5,4 +5,4 @@ Temperature Sensor Project
 
 ! SDA & SCL pins needed, since the project was programmed in arduino nano the right pins are according to the photo.
 
-A temperature sensor project that uses the DHT11 sensor, Liquid Crystal L2C display & of course a breadboard & pin with the proper connections.
+A temperature sensor project that uses the DHT11 sensor & has the abillity to identify humidity & the current room temperature and then print it to an LCD screen , the project used: Liquid Crystal L2C display & of course a breadboard & pin with the proper connections.
