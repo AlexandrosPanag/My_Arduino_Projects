@@ -1,3 +1,7 @@
+/*
+ * Created by Alexandros Panagiotakopoulos
+*/
+
 #include "dht.h" 
 dht DHT;
 
