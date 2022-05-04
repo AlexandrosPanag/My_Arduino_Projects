@@ -1,3 +1,7 @@
+/*
+ * Created by Alexandros Panagiotakopoulos
+*/
+
 int RelayPinOne = 12;
 int RelayPinTwo = 11;
 
