@@ -1,3 +1,8 @@
+/*
+ * Created by Alexandros Panagiotakopoulos
+*/
+
+
 const int buttonPin = 2;     // the number of the pushbutton pin
 int onoff=0;                 //Declaring a button state
 
