@@ -1,3 +1,8 @@
+/*
+ * Created by Alexandros Panagiotakopoulos
+*/
+
+
 int soundSensor=1; //declaring the sound sensor value
 int LEDfirst=4;  //declaring the first LED pin
 int LEDsecond=6; //declaring the second LED pin
