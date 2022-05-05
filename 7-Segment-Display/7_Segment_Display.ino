@@ -8,7 +8,6 @@ void setup()
 
   //defines common pins while using multi-digit display. Left empty as we have a single digit display
   byte digitPins[] = {};
-
   //Defines arduino pin A, B, C, D, E, F, G, DP
   byte segmentPins[] = {3, 2, 8, 7, 6, 4, 5, 9};
   bool resistorsOnSegments = true;
@@ -22,11 +21,11 @@ void setup()
 
 void loop()
 { 
-   //Display numbers one by one with 2 seconds delay
+   //Display numbers one by one with 1 second delay
    for(int i = 0; i < 10; i++)
    {
      sevseg.setNumber(i);
      sevseg.refreshDisplay(); 
-     delay(2000);
+     delay(1000);
    }
 }
