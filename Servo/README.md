@@ -10,4 +10,4 @@ Servo With Button
 ------------
 
 
-This code was run on Tower Pro MG90S Micro Servo module..When we press the breadboard button our servo will spin 180 degrees
+This code was run on Tower Pro MG90S Micro Servo module.When we press the breadboard button our servo will spin 180 degrees
