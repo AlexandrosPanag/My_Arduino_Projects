@@ -37,6 +37,6 @@ void loop(){
   lcd.print("ArQ=");
   lcd.print(sensorValue,DEC);   // print message
   lcd.print(" PPM");
-  delay(5000);    // Wait one second
+  delay(5000);    // Wait 5 seconds
   lcd.clear();   // clears the display to print new message
 }
