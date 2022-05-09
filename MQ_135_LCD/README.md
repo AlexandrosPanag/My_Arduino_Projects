@@ -12,3 +12,6 @@ Has a long service life and reliable stability.
 Rapid response and recovery characteristics.
 Size:36mm X24mm X25mm(L * W * H)
 Some Application: A hazardous gas detection apparatus for the family, the environment. Suitable for ammonia, aromatic compounds, sulfur, benzene vapor, smoke and other gases harmful gas detection. Gas-sensitive element test concentration range: 10 to 1000ppm
+
+
+![](https://raw.githubusercontent.com/AlexandrosPanag/My_Arduino_Projects/main/MQ_135_LCD/mq135_lcd.jpg)
