@@ -9,3 +9,10 @@ SparkFun HC-SR04 Ultrasonic Distance Sensor is an economic sensor that is design
 
 
 SOURCE : https://gr.mouser.com/new/sparkfun/sparkfun-hcsr04-distance-sensor/
+
+
+
+HC_SR04_Measure_Distance
+--------------------------
+
+We intialize the sensor and print into the serial port the distance that the ultrasound sensor measures
