@@ -1,6 +1,6 @@
 My Arduino Projects
 ------
-![](https://th.bing.com/th/id/OIP.SpJecmZjPltXmvNJkf6-bwHaFj?pid=ImgDet&rs=1)
+![](https://raw.githubusercontent.com/AlexandrosPanag/My_Arduino_Projects/main/Uno%20Rev%203.png)
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 
