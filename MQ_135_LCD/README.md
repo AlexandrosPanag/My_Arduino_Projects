@@ -1,6 +1,9 @@
 MQ_135+LCD
 ---------------------------
 
+
+For a more advanced project i recommend you check out : https://github.com/AlexandrosPanag/My_Arduino_Projects/tree/main/Air_Quality_Project
+
 Main chip: LM393,MQ-135 gas sensor
 Operating voltage: DC 5V
 With signal output indicator instructions.
