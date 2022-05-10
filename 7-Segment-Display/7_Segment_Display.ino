@@ -9,7 +9,7 @@ void setup()
   //defines common pins while using multi-digit display. Left empty as we have a single digit display
   byte digitPins[] = {};
   //Defines arduino pin A, B, C, D, E, F, G, DP
-  byte segmentPins[] = {3, 2, 8, 7, 6, 4, 5, 9};
+  byte segmentPins[] = {7, 6, 4, 2, 1, 9, 10, 5};
   bool resistorsOnSegments = true;
 
   //Initialize sevseg object. Uncomment second line if you use common cathode 7 segment
