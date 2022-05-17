@@ -1,3 +1,7 @@
+/*********
+ By Alexandros Panagiotakopoulos
+*********/
+
 #include "SevSeg.h"
 SevSeg sevseg;
 
