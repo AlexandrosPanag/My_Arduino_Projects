@@ -14,3 +14,9 @@ The BME280 is the next-generation of sensors from Bosch, and is the upgrade to t
 SOURCE : https://www.adafruit.com/product/2652
 
 For a more complete documentation, instructions you can check out this link : https://learn.adafruit.com/adafruit-bme280-humidity-barometric-pressure-temperature-sensor-breakout/arduino-test
+
+
+BME280 Initialization
+-------------
+
+A project made to initialize the Adafruit BME280 sensor, print the temperature, the pressure , the approximate altitude from the sea level pressure and the current humidity every 10 seconds
