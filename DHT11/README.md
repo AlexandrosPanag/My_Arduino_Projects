@@ -4,13 +4,28 @@ DHT11 Description
 ![](https://raw.githubusercontent.com/AlexandrosPanag/My_Arduino_Projects/main/DHT11/DHT11.jpg)
 
 Ultra low cost
+
+
 3 to 5V power and I/O
+
+
 2.5mA max current use during conversion (while requesting data)
+
+
 Good for 20-80% humidity readings with 5% accuracy
+
+
 Good for 0-50°C temperature readings ±2°C accuracy
+
+
 No more than 1 Hz sampling rate (once every second)
+
+
 Body size 15.5mm x 12mm x 5.5mm
+
+
 4 pins with 0.1" spacing
+
 
 
 
