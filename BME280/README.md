@@ -1,6 +1,8 @@
 BME 280
 --------
 
+![](https://raw.githubusercontent.com/AlexandrosPanag/My_Arduino_Projects/main/BME280/BME280.jpg)
+
 
 Bosch has stepped up their game with their new BME280 sensor, an environmental sensor with temperature, barometric pressure and humidity! This sensor is great for all sorts of indoor environmental sensing and can even be used in both I2C and SPI!
 
