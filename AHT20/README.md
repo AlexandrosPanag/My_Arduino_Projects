@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/AlexandrosPanag/My_Arduino_Projects/main/AHT20/aht20.jpg)
+
 The AHT20 is a nice but inexpensive temperature and humidity sensor from the same folks that brought us the DHT22. You can take sensor readings as often as you like, and it uses standard I2C so its super easy to use with any Arduino or Linux/Raspberry Pi board.
 
 This sensor has a typical accuracy of +- 2% relative humidity, and +-0.3 °C at 20-80% RH and 20-60 °C. There is only one I2C address so it's not a good option when you need multiple humidity sensors.
