@@ -7,3 +7,10 @@ This sensor has a typical accuracy of +- 2% relative humidity, and +-0.3 °C at 
 As with all Adafruit breakouts, we've done the work to make this handy temperature-and-humidity super easy to use. We've put it on a breakout board with the required support circuitry and connectors to make it easy to work with and is now a trend we've added SparkFun Qwiic compatible STEMMA QT JST SH connectors that allow you to get going without needing to solder.
 
 SOURCE : https://www.adafruit.com/product/4566
+
+
+
+AHT20
+-----------------------
+
+This project is made in order to take the AHT20 sensor's humidity & temperature and then print them into the serial port
