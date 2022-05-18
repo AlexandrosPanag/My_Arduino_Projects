@@ -12,3 +12,9 @@ Such a lovely chip - so we spun up a breakout board with the SHTC3 and some supp
 
 
 SOURCE: https://www.adafruit.com/product/4636
+
+
+SHTC3_Initialization
+------------------------------
+
+A project made to initialize the SHTC3 humidity and temperature sensor, and then print the values into the serial port
