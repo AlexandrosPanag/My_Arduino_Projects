@@ -1,11 +1,5 @@
 Arduino - Blink
 ---
 
+The Following code affects the built-in light of our arduino board with 2 seconds on and 2 seconds off.
 
-
-GR: Ο ακόλουθος κώδικας επιρρεάζει το φώς της πλακέτας arduino με 2 δευτερόλεπτα on και 2 δευτερόλεπτα off.
-
-EN: The Following code affects the light of our arduino board with 2 seconds on and 2 seconds off.
-
-
-video: https://www.youtube.com/watch?v=pfz66LKk09Q
