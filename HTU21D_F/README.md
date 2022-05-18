@@ -11,3 +11,9 @@ Such a lovely chip - so we spun up a breakout board that includes the Filtered v
 To get you going fast, we spun up a custom made PCB in the STEMMA QT form factor, making them easy to interface with. The STEMMA QT connectors on either side are compatible with the SparkFun Qwiic I2C connectors.
 
 SOURCE: https://www.adafruit.com/product/1899
+
+
+HTU21D_F Initialization
+--------------------------------------------------------
+
+This project was made in order to initialize the HTU21D_F Temperature Sensor that can read & print both the humidity and the current temperature
