@@ -2,7 +2,7 @@
  * Created by Alexandros Panagiotakopoulos
 */
 
-#include <Servo.h>
+#include <Servo.h> // original library was based on : https://www.arduino.cc/reference/en/libraries/servo/
 
 Servo servo_1; // servo controller (multiple can exist)
 
