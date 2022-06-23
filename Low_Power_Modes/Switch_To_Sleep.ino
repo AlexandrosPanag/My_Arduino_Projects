@@ -34,7 +34,6 @@ void setup()
 void loop() 
 {
   SerialUSB.println("Entering standby mode.");
-  SerialUSB.println("Apply low signal to wake the processor.");
   SerialUSB.println("Zzzz...");
   // Detach USB interface
   USBDevice.detach();
