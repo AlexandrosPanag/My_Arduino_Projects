@@ -2,7 +2,7 @@
  * Created by Alexandros Panagiotakopoulos
 */
 
-#include "Adafruit_SHTC3.h"
+#include "Adafruit_SHTC3.h" //original library was made by adafruit
 
 Adafruit_SHTC3 shtc3 = Adafruit_SHTC3();
 
