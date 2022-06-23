@@ -3,6 +3,19 @@
 *********/
 
 #include "SevSeg.h"
+/*
+SevSeg
+Display
+
+Turns your Arduino into a seven segment display controller!
+Use it to easily display numbers on your seven segment display without any additional hardware. Supports common cathode and common anode displays, the use of switching transistors, decimal numbers, hexadecimal numbers, and alphanumeric characters.
+
+Author: Dean Reading
+
+Maintainer: Dean Reading
+
+*/
+
 SevSeg sevseg;
 
 void setup()
