@@ -1,16 +1,20 @@
+/*
+ * Created by Alexandros Panagiotakopoulos
+*/
+
 #include "LowPower.h"
 
 // External interrupt on pin 0 (use pin 0 to 24, except pin 4 on Arduino Zero)
 const int pin = 0;
-unsigned char count = 10;
+unsigned char count = 10; //Declare the arduino counter
 
 void setup()
 {
   // Wait for serial USB port to open
   while(!SerialUSB);
-  SerialUSB.println("***** ATSAMD21 Standby Mode Example *****");
+  SerialUSB.println("***** Low Power Mode example *****");
   
-  // ***** IMPORTANT *****
+
   // Delay is required to allow the USB interface to be active during
   // sketch upload process
   SerialUSB.println("Entering standby mode in:");
@@ -39,7 +43,7 @@ void loop()
   // Attach USB interface
 }
 
-void blink(void)
+void blink(void) //additional code if we want can be detached here
 {
 
 }
