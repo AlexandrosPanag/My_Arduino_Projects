@@ -3,6 +3,12 @@
 *********/
 #include <Adafruit_AHTX0.h>
 
+/*
+Arduino library for the AHT10 and AHT20 sensors in the Adafruit shop
+Author: Adafruit
+
+Maintainer: Adafruit
+*/
 Adafruit_AHTX0 aht;
 
 Adafruit_Sensor *aht_humidity, *aht_temp;
