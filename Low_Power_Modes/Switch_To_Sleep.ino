@@ -2,7 +2,13 @@
  * Created by Alexandros Panagiotakopoulos
 */
 
-#include "LowPower.h"
+#include "LowPower.h" 
+
+/*Lightweight power management library
+Author: Rocket Scream Electronics
+
+Maintainer: Rocket Scream Electronics
+*/
 
 // External interrupt on pin 0 (use pin 0 to 24, except pin 4 on Arduino Zero)
 const int pin = 0;
