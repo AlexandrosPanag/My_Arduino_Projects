@@ -2,8 +2,8 @@
  By Alexandros Panagiotakopoulos
 *********/
 
-#include <Wire.h>
-#include "Adafruit_HTU21DF.h"
+#include <Wire.h> //original library from arduino IDE : https://www.arduino.cc/reference/en/language/functions/communication/wire/
+#include "Adafruit_HTU21DF.h" //original library was made by adafruit 
 
 Adafruit_HTU21DF htu = Adafruit_HTU21DF();
 
