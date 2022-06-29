@@ -5,6 +5,7 @@ DHT11 Description
 
 Connection
 
+![](https://raw.githubusercontent.com/AlexandrosPanag/My_Arduino_Projects/main/DHT11/Connection.png)
 
 A few of the key elements that DHT11 has:
 -Ultra low cost
