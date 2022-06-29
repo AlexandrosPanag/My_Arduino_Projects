@@ -3,7 +3,9 @@ DHT11 Description
 
 ![](https://raw.githubusercontent.com/AlexandrosPanag/My_Arduino_Projects/main/DHT11/DHT11.jpg)
 
-Connection
+
+Connection:
+--------------
 
 ![](https://raw.githubusercontent.com/AlexandrosPanag/My_Arduino_Projects/main/DHT11/Connection.png)
 
