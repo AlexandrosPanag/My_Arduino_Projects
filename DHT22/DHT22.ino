@@ -3,7 +3,7 @@
 *********/
 
 // connect the sensor : 
-// DHT11             ESP32
+// DHT11             ARDUINO
 // left sensor pin   D4
 // VDD/VIN           DIGITAL 3V3
 // GND               DIGITAL GND
