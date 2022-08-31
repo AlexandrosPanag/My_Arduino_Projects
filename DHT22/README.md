@@ -1,5 +1,5 @@
 
-| DHT22 | ESP32 |
+| DHT22 | ARDUINO |
 | --------------- | --------------- |
 | Full Left Sensor Pin <--- | 3V3 |
 | left Secondary Pin <--| 10K OHM RESISTANCE D4 |
