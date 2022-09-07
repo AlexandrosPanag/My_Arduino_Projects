@@ -6,4 +6,4 @@
 | Right PIN | DO NOT CONNECT ANYTHING |
 | Full Right Pin GND ---> | DIGITAL GND|
 
-![](https://hacksterio.s3.amazonaws.com/uploads/attachments/1273978/fritzing_Nqd9QgAqRD.jpg)
+![](https://erriez.github.io/ErriezDHT22/DHT22_Arduino_UNO.png)
