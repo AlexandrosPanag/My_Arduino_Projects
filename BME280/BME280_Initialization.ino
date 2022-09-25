@@ -2,6 +2,7 @@
  By Alexandros Panagiotakopoulos
 *********/
 
+// Based on the original Adafruit_BME280 Library example provided by Adafruit
 /* include the necessary libraries */
 #include <Wire.h>
 #include <SPI.h>
