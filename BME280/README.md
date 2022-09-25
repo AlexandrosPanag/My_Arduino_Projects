@@ -1,5 +1,9 @@
-BME 280
+Adafruit BME 280
 --------
+
+In case your ESP32 model is not the same as the one i used and you have a trouble identifying the appropriate MISO/ MOSI etc SPI Pins i highly enourage you to visit the DEBUG example that i've made which can be found at the link bellow
+
+-> https://github.com/AlexandrosPanag/My_ESP32_Projects/tree/main/DEBUG/SPI_DEBUG  <-
 
 ![](https://raw.githubusercontent.com/AlexandrosPanag/My_Arduino_Projects/main/BME280/BME280.jpg)
 
