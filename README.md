@@ -4,7 +4,7 @@ My Arduino Projects
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 
-For more arduino based programs you can check out : https://github.com/AlexandrosPanag/My_esp8266_Projects
+For more arduino based programs you can check out : https://github.com/AlexandrosPanag/My_esp8266_Projects & https://github.com/AlexandrosPanag/My_ESP32_Projects
 
 
 Some of the programs are compatible with an arduino board or require an alternative cable connection based on your board.
