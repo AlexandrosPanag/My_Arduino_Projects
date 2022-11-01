@@ -10,7 +10,7 @@ For more arduino based programs you can check out : https://github.com/Alexandro
 Some of the programs are compatible with an arduino board or require an alternative cable connection based on your board.
 
 
-
+Special thanks to the Autonomous Systems Laboratory at the Department of Informatics & Telecommunications, for providing me with the necessary equipment in order to make this repository possible :)
 
 
 Arduino
