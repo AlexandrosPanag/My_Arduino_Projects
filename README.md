@@ -5,6 +5,9 @@ All of my programs were compiled on my Arduino Uno Rev 3 microcontroller and som
 
 
 ![](https://raw.githubusercontent.com/AlexandrosPanag/My_Arduino_Projects/main/Uno%20Rev%203.png)
+
+PICTURE IMAGE SOURCE CAN BE FOUND HERE: https://docs.arduino.cc/static/6ec5e4c2a6c0e9e46389d4f6dc924073/2f891/Pinout-UNOrev3_latest.png
+
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 
