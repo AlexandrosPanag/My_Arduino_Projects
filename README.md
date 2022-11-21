@@ -1,16 +1,17 @@
 My Arduino Projects
 ------
+
+All of my programs were compiled on my Arduino Uno Rev 3 microcontroller and some of them were compiled on the Arduino Nano 33 IoT and Arduino Nano BLE which were provided to me by the Autonomous Systems Laboratory of the University of Ioannina, Department of Informatics & Telecommunications.
+
+
 ![](https://raw.githubusercontent.com/AlexandrosPanag/My_Arduino_Projects/main/Uno%20Rev%203.png)
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 
-For more arduino based programs you can check out : https://github.com/AlexandrosPanag/My_esp8266_Projects & https://github.com/AlexandrosPanag/My_ESP32_Projects
+Some of the programs may or may not be compatible with every arduino board or require an alternative pin connection depending on your board module.
 
 
-Some of the programs are compatible with an arduino board or require an alternative cable connection based on your board.
-
-
-Special thanks to the Autonomous Systems Laboratory at the Department of Informatics & Telecommunications, for providing me with the necessary equipment in order to make this repository possible :)
+Special thanks to the Autonomous Systems Laboratory at the Department of Informatics & Telecommunications, for providing me with the necessary equipment including a variety of different sensors and different Arduino-boards in order to make this repository possible :)
 
 
 Arduino
