@@ -9,7 +9,7 @@ All of my programs were compiled on my Arduino Uno Rev 3 microcontroller and som
 
 
 PICTURE IMAGE SOURCE CAN BE FOUND HERE: https://docs.arduino.cc/static/6ec5e4c2a6c0e9e46389d4f6dc924073/2f891/Pinout-UNOrev3_latest.png
----------------------------------------------------------------
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------
@@ -20,7 +20,7 @@ _Some of the programs may or may not be compatible with every arduino board or r
 
 __Special thanks__ to the Autonomous Systems Laboratory at the Department of Informatics & Telecommunications, for providing me with the necessary equipment including a variety of different sensors and different Arduino-boards in order to make this repository possible :)
 
--------------------
+--------------------
 Arduino
 --------------------
 
