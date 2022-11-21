@@ -6,15 +6,19 @@ All of my programs were compiled on my Arduino Uno Rev 3 microcontroller and som
 
 ![](https://raw.githubusercontent.com/AlexandrosPanag/My_Arduino_Projects/main/Uno%20Rev%203.png)
 
-PICTURE IMAGE SOURCE CAN BE FOUND HERE: https://docs.arduino.cc/static/6ec5e4c2a6c0e9e46389d4f6dc924073/2f891/Pinout-UNOrev3_latest.png
+
+---------------------------------------------------------------
+#PICTURE IMAGE SOURCE CAN BE FOUND HERE: https://docs.arduino.cc/static/6ec5e4c2a6c0e9e46389d4f6dc924073/2f891/Pinout-UNOrev3_latest.png
+---------------------------------------------------------------
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 
-Some of the programs may or may not be compatible with every arduino board or require an alternative pin connection depending on your board module.
+_Some of the programs may or may not be compatible with every arduino board or require an alternative pin connection depending on your board module._
 
 
-Special thanks to the Autonomous Systems Laboratory at the Department of Informatics & Telecommunications, for providing me with the necessary equipment including a variety of different sensors and different Arduino-boards in order to make this repository possible :)
+__Special thanks__ to the Autonomous Systems Laboratory at the Department of Informatics & Telecommunications, for providing me with the necessary equipment including a variety of different sensors and different Arduino-boards in order to make this repository possible :)
 
 
 Arduino
