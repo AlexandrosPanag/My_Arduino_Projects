@@ -1,7 +1,7 @@
 Buzzer Song
 -----
 
-|Connection with ESP32 | Buzzer|
+|Connection with your Arduino Board | Buzzer|
 | --------------- | ---------------- | 
 |Digital Pin2 | +|
 |GND          | -|
