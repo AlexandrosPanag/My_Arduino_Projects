@@ -1,7 +1,7 @@
 DHT11 Description
 --------------
 
-![](https://raw.githubusercontent.com/AlexandrosPanag/My_Arduino_Projects/main/DHT11/DHT11.jpg)
+ATTENTION: PLEASE CHECK YOUR DHT11 SENSOR MODULE! IF IT DOESN'T RESEMBLE THE PICTURE OR HAS MORE THAN 1 PIN YOU NEED TO CHECK THE PIN CONNECTION (some DHT11 sensors have the VCC & GND backwards!!! )! 
 
 
 Connection:
