@@ -9,29 +9,10 @@ Connection:
 
 ![](https://raw.githubusercontent.com/AlexandrosPanag/My_Arduino_Projects/main/DHT11/Connection.png)
 
-A few of the key elements that DHT11 has:
--Ultra low cost
 
+The DHT11 is a basic, ultra low-cost digital temperature and humidity sensor. It uses a capacitive humidity sensor and a thermistor to measure the surrounding air, and spits out a digital signal on the data pin (no analog input pins needed).
 
--3 to 5V power and I/O
-
-
--2.5mA max current use during conversion (while requesting data)
-
-
--Good for 20-80% humidity readings with 5% accuracy
-
-
--Good for 0-50°C temperature readings ±2°C accuracy
-
-
--No more than 1 Hz sampling rate (once every second)
-
-
--Body size 15.5mm x 12mm x 5.5mm
-
-
--4 pins with 0.1" spacing
+This description was taken from: https://shop.evilmadscientist.com/productsmenu/716#:~:text=The%20DHT11%20is%20a%20basic,no%20analog%20input%20pins%20needed).
 
 
 
@@ -40,7 +21,7 @@ DHT11
 --------------
 
 
-A program that uses the DHT11 semspr om prder tp identify & print into the Serial Monitor the current humidity and temperature.
+A program that uses the DHT11 sensor in order to identify & print into the Serial Monitor the current humidity and temperature.
 If the temperature is above 25 celcius the program will blink.
 
 Useful link : https://www.makerguides.com/dht11-dht22-arduino-tutorial/
