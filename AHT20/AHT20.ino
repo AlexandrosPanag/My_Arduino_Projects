@@ -1,6 +1,7 @@
 /*********
- By Alexandros Panagiotakopoulos
+ By Alexandros Panagiotakopoulos - alexandrospanag.github.io
 *********/
+
 #include <Adafruit_AHTX0.h>
 
 /*
