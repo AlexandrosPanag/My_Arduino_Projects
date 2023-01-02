@@ -1,5 +1,7 @@
 //SOURCE CODE WAS FOUND AT : https://miliohm.com/how-to-simply-use-ds18b20-temperature-sensor-with-arduino/
-//Edited by Alexandros Panagiotakopoulos
+/*********
+ Edited by Alexandros Panagiotakopoulos - alexandrospanag.github.io
+*********/
 
 // Include the libraries we need
 #include <OneWire.h>
