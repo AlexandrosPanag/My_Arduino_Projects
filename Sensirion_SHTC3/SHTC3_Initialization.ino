@@ -1,6 +1,6 @@
-/*
- * Created by Alexandros Panagiotakopoulos
-*/
+/*********
+ By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+*********/
 
 #include "Adafruit_SHTC3.h" //original library was made by adafruit
 
