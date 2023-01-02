@@ -1,5 +1,5 @@
 /*********
- By Alexandros Panagiotakopoulos
+ By Alexandros Panagiotakopoulos - alexandrospanag.github.io
 *********/
 
 #include <Wire.h> //original library from arduino IDE : https://www.arduino.cc/reference/en/language/functions/communication/wire/
