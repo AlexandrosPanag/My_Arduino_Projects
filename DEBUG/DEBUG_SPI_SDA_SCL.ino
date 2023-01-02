@@ -4,7 +4,7 @@
 */
 
 /*********
-Edited By Alexandros Panagiotakopoulos
+ Edited By Alexandros Panagiotakopoulos - alexandrospanag.github.io
 *********/
 
 //Find the default SPI pins for your board
