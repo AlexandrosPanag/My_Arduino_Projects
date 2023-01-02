@@ -8,7 +8,7 @@ SDA: I2C data signal
 SCL: I2C clock signal
 
 /*********
- By Alexandros Panagiotakopoulos
+ By Alexandros Panagiotakopoulos - alexandrospanag.github.io
 *********/
 
 
