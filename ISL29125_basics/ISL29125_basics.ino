@@ -1,26 +1,12 @@
 /******************************************************************************
 ISL29125_basics.ino
 Simple example for using the ISL29125 RGB sensor library.
+Based upon the original code:
 Jordan McConnell @ SparkFun Electronics
 11 Apr 2014
 https://github.com/sparkfun/ISL29125_Breakout
 
-This example declares an SFE_ISL29125 object called RGB_sensor. The 
-object/sensor is initialized with a basic configuration so that it continuously
-samples the light intensity of red, green and blue spectrums. These values are
-read from the sensor every 2 seconds and printed to the Serial monitor.
-
-Developed/Tested with:
-Arduino Uno
-Arduino IDE 1.0.5
-
-Requires:
-SFE_ISL29125_Library
-
-This code is beerware.
-Distributed as-is; no warranty is given. 
-
-This code was slightly edited by Alexandros Panagiotakopoulos
+This code was edited by Alexandros Panagiotakopoulos - alexandrospanag.github.io
 ******************************************************************************/
 
 #include <Wire.h>
