@@ -1,6 +1,7 @@
-/*
- * Created by Alexandros Panagiotakopoulos
-*/
+/*********
+ By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+ Built-in blink LED - Works on Arduino Uno Rev 3, Arduino Nano 33 IoT, Arduino Nano among many other boards.
+*********/
 
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
