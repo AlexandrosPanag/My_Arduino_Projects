@@ -1,5 +1,5 @@
 /*********
- By Alexandros Panagiotakopoulos
+ By Alexandros Panagiotakopoulos - alexandrospanag.github.io
 *********/
 
 // connect the sensor : 
