@@ -1,5 +1,5 @@
 /*********
- By Alexandros Panagiotakopoulos
+ By Alexandros Panagiotakopoulos - alexandrospanag.github.io
 *********/
 
 // Based on the original Adafruit_BME280 Library example provided by Adafruit
