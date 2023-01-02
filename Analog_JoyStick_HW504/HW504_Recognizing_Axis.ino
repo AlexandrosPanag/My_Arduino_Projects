@@ -1,6 +1,6 @@
-/*
- * Created by Alexandros Panagiotakopoulos
-*/
+/*********
+ By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+*********/
 
 #define joyX A0
 #define joyY A1
