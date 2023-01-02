@@ -1,6 +1,7 @@
 /*
 
- Color sensor calibration project by ALEXANDROS PANAGIOTAKOPOULOS
+ By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+
 
  The TCS239 operates on a wide voltage rate and outputs square wave whose frequency reflects the color intensity
  Signal output
