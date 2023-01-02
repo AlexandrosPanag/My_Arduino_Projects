@@ -1,6 +1,6 @@
-/*
- * Created by Alexandros Panagiotakopoulos
-*/
+/*********
+ By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+*********/
 
 #include <Adafruit_PCT2075.h> //Adafruit PCT2075 by Adafruit
 
@@ -11,13 +11,13 @@ void setup() {
   Serial.begin(115200); //begin the serial baud rate to 115200 baud
   // Wait until serial port is opened
   while (!Serial) { delay(1); }
-  Serial.println("Adafruit PCT2075 Test");
+  Serial.println("Adafruit PCT2075 Sensor Test");
 
   if (!PCT2075.begin()) { //check if the PCT2075 is connected properly or was found
-    Serial.println("Couldn't find PCT2075 sensor"); //if it's not connected properly or wasn't found
+    Serial.println("Couldn't find the PCT2075 sensor"); //if it's not connected properly or wasn't found
     while (1); //stay on the loop
   }  
-  Serial.println("Found PCT2075 sensor"); //otherwise, print that the sensor was found
+  Serial.println("Found the PCT2075 sensor"); //otherwise, print that the sensor was found
 }
 
 void loop() { //print the serial temperature
@@ -26,5 +26,5 @@ void loop() { //print the serial temperature
   Serial.print(PCT2075.getTemperature());
   Serial.println(" C");
   Serial.println();
-  delay(10000);
+  delay(2000);
 }
