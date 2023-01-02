@@ -1,6 +1,6 @@
-/*
- * Created by Alexandros Panagiotakopoulos
-*/
+/*********
+ By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+*********/
 
 
 const int buttonPin = 2;     // the number of the pushbutton pin
