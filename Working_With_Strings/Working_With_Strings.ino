@@ -1,7 +1,6 @@
-/*
- * Created by Alexandros Panagiotakopoulos
-*/
-
+/*********
+ By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+*********/
 
 void setup() {
   Serial.begin(9600);
