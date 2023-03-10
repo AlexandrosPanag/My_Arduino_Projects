@@ -34,7 +34,11 @@ Arduino was born at the Ivrea Interaction Design Institute as an easy tool for f
 
 Original article was taken from & can be found here: https://www.arduino.cc/en/guide/introduction
 
+
+-----
 All of the codes were compiled on the Arduino IDE.
+-----
+
 
 | Compiler/IDE | Download Link |
 | --------------- | ---------------- |
