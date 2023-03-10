@@ -3,12 +3,6 @@ My Arduino Projects
 
 All of my programs were compiled on my Arduino Uno Rev 3 microcontroller and some of them were compiled on the Arduino Nano 33 IoT and Arduino Nano BLE which were provided to me by the Autonomous Systems Laboratory of the University of Ioannina, Department of Informatics & Telecommunications.
 
-Various compilers/IDE(s) were used in order to create different solutions.
-
-| Compiler/IDE | Download Link |
-| --------------- | ---------------- |
-| ARDUINO-IDE | [Download Link](https://www.arduino.cc/en/software) |
-
 
 
 ![](https://raw.githubusercontent.com/AlexandrosPanag/My_Arduino_Projects/main/Uno%20Rev%203.png)
@@ -40,4 +34,8 @@ Arduino was born at the Ivrea Interaction Design Institute as an easy tool for f
 
 Original article was taken from & can be found here: https://www.arduino.cc/en/guide/introduction
 
-IDE USED: https://www.arduino.cc/en/software
+All of the codes were compiled on the Arduino IDE.
+
+| Compiler/IDE | Download Link |
+| --------------- | ---------------- |
+| ARDUINO-IDE | [Download Link](https://www.arduino.cc/en/software) |
