@@ -1,6 +1,8 @@
 My Arduino Projects
 ------
 
+<img src="https://img.shields.io/bower/l/mi">
+
 All of my programs were compiled on my Arduino Uno Rev 3 microcontroller and some of them were compiled on the Arduino Nano 33 IoT and Arduino Nano BLE which were provided to me by the Autonomous Systems Laboratory of the University of Ioannina, Department of Informatics & Telecommunications.
 
 
