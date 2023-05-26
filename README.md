@@ -7,7 +7,7 @@ My Arduino Projects
 Credits: [@alexandrospanag](https://github.com/alexandrospanag)
 
 
-All of my programs were compiled on my Arduino Uno Rev 3 microcontroller and some of them were compiled on the Arduino Nano 33 IoT and Arduino Nano BLE which were provided to me by the Autonomous Systems Laboratory of the University of Ioannina, Department of Informatics & Telecommunications.
+Most of my programs were compiled on my Arduino Uno Rev 3 microcontroller, including, the Arduino Nano 33 IoT and Arduino Nano BLE microcontrollers which were provided to me by the Autonomous Systems Laboratory of the University of Ioannina, Department of Informatics & Telecommunications.
 
 
 
@@ -22,7 +22,7 @@ PICTURE IMAGE SOURCE CAN BE FOUND HERE: https://docs.arduino.cc/static/6ec5e4c2a
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 
-_Some of the programs may or may not be compatible with every arduino board or require an alternative pin connection depending on your board module._
+_Some of the programs may or may not be compatible with every arduino board or require an alternative pin connection depending on your board module, make sure you check your board's diagram and identify the appropriate pin connection._
 
 
 __Special thanks__ to the Autonomous Systems Laboratory at the Department of Informatics & Telecommunications, for providing me with the necessary equipment including a variety of different sensors and different Arduino-boards in order to make this repository possible :)
