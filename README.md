@@ -11,7 +11,7 @@ Most of my programs were compiled on my Arduino Uno Rev 3 microcontroller, inclu
 
 
 
-![](https://raw.githubusercontent.com/AlexandrosPanag/My_Arduino_Projects/main/Uno%20Rev%203.png)
+![](https://raw.githubusercontent.com/AlexandrosPanag/My_Arduino_Projects/main/Uno%20Rev%203.png?token=GHSAT0AAAAAACDZLB4RLAOIPLRC3XFY7VXMZGP76QA)
 
 
 
