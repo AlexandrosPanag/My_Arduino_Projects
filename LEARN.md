@@ -1,7 +1,16 @@
 My Arduino Projects
 ------
 
-<img src="https://img.shields.io/bower/l/mi">
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 
 Credits: [@alexandrospanag](https://github.com/alexandrospanag)
@@ -11,7 +20,7 @@ Most of my programs were compiled on my Arduino Uno Rev 3 microcontroller, inclu
 
 
 
-![](https://raw.githubusercontent.com/AlexandrosPanag/My_Arduino_Projects/main/Uno%20Rev%203.png)
+![](https://raw.githubusercontent.com/AlexandrosPanag/My_Arduino_Projects/main/Uno%20Rev%203.png?token=GHSAT0AAAAAACDZLB4RLAOIPLRC3XFY7VXMZGP76QA)
 
 
 
@@ -38,9 +47,14 @@ Over the years Arduino has been the brain of thousands of projects, from everyda
 
 Arduino was born at the Ivrea Interaction Design Institute as an easy tool for fast prototyping, aimed at students without a background in electronics and programming. As soon as it reached a wider community, the Arduino board started changing to adapt to new needs and challenges, differentiating its offer from simple 8-bit boards to products for IoT applications, wearable, 3D printing, and embedded environments. All Arduino boards are completely open-source, empowering users to build them independently and eventually adapt them to their particular needs. The software, too, is open-source, and it is growing through the contributions of users worldwide.
 
-Original article was taken from & can be found here: https://www.arduino.cc/en/guide/introduction
+This citation was taken directly from & can be found here: https://www.arduino.cc/en/guide/introduction
 
 
 -----
 All of the codes were compiled on the Arduino IDE.
 -----
+
+
+| Compiler/IDE | Download Link |
+| --------------- | ---------------- |
+| ARDUINO-IDE | [Download Link](https://www.arduino.cc/en/software) |
