@@ -19,7 +19,7 @@ Connection:
 
 The DHT11 is a basic, ultra low-cost digital temperature and humidity sensor. It uses a capacitive humidity sensor and a thermistor to measure the surrounding air, and spits out a digital signal on the data pin (no analog input pins needed).
 
-This description was taken from: https://shop.evilmadscientist.com/productsmenu/716#:~:text=The%20DHT11%20is%20a%20basic,no%20analog%20input%20pins%20needed).
+<b> THIS DESCRIPTION WAS TAKEN DIRECTLY & CAN BE FOUND HERE: https://shop.evilmadscientist.com/productsmenu/716#:~:text=The%20DHT11%20is%20a%20basic,no%20analog%20input%20pins%20needed). </b>
 
 
 
