@@ -11,7 +11,7 @@ Unlike some earlier SHT sensors, this sensor has a true I2C interface for easy i
 Such a lovely chip - so we spun up a breakout board with the SHTC3 and some supporting circuitry such as pullup resistors and capacitors. To make things even easier, we've included SparkFun Qwiic compatible STEMMA QT connectors for the I2C bus so you don't even need to solder! QT Cable is not included, but we have a variety in the shop. If you prefer working on a breadboard, each order comes with one fully assembled and tested PCB breakout and a small piece of header. You'll need to solder the header onto the PCB but it's fairly easy and takes only a few minutes even for a beginner.
 
 
-SOURCE: https://www.adafruit.com/product/4636
+<b> THIS SOURCE WAS TAKEN DIRECTLY & CAN BE FOUND HERE : https://www.adafruit.com/product/4636 </b>
 
 
 SHTC3_Initialization
