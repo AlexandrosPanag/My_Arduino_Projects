@@ -18,7 +18,7 @@ The measuring instrument called a potentiometer. This is essentially an output v
 
 Potentiometers are commonly used to control electrical devices such as volume controls on audio equipment. Potentiometers operated by a mechanism can be used as position transducers, for example, in a game joystick. Potentiometers are rarely used to directly control significant power (more than a single watt), since the power dissipated in the potentiometer would be comparable to the power in the controlled load.
 
---->>> SOURCE: THIS ARTICLE WAS TAKEN DIRECTLY & CAN BE FOUND FROM: https://www.electricityforum.com/what-is-a-potentiometer  <<<----
+<b> SOURCE: THIS ARTICLE WAS TAKEN DIRECTLY & CAN BE FOUND FROM: https://www.electricityforum.com/what-is-a-potentiometer  </b>
 
 
 
