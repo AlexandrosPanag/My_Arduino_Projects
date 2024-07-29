@@ -10,7 +10,7 @@ Such a lovely chip - so we spun up a breakout board that includes the Filtered v
 
 To get you going fast, we spun up a custom made PCB in the STEMMA QT form factor, making them easy to interface with. The STEMMA QT connectors on either side are compatible with the SparkFun Qwiic I2C connectors.
 
-SOURCE: https://www.adafruit.com/product/1899
+<b> THIS SOURCE WAS TAKEN DIRECTLY & CAN BE FOUND HERE : https://www.adafruit.com/product/1899 </b>
 
 
 HTU21D_F Initialization
