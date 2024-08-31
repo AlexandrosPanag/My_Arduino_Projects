@@ -22,3 +22,9 @@ LCD 16 X 2
 ---
 
 A basic program that is made for testing the code / debugging to ensure your cable connection is wired properly.
+
+
+LCD 16 X 2 - DICE ROLLING GAME WITH BUTTON
+---
+
+A basic program that rolls a random dice (also available a 2 dice version) when a button is pressed.
