@@ -1,8 +1,8 @@
 LCD 16 X 2 Display Program (Without I2C)
 -------
 
-| LCD | ARDUINO |
-|_____|_________|
+| DHT11 | ARDUINO |
+| --------------- | --------------- |
 | VSS | GND |
 | VDD | 5V |
 | VO | D6 |
